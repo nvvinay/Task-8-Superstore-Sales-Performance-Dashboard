@@ -1,0 +1,6 @@
+Task 8 – Dashboard Insights
+
+1. Sales show an overall upward trend over time.
+2. Africa region generates the highest sales among selected regions.
+3. Technology category contributes the largest share (~41%) of total sales.
+4. Sales distribution across categories is relatively balanced.
